@@ -21,7 +21,7 @@ Some insights I was able to generate from this analysis are outlined below:
 - **Customer with the highest number of sales:** "Tom Ashbrok" was the customer who generated the highest sales for the firm. Most of his sales were gotten in 2014 where he purchased products worth over $23,000.
 - **Low performing countries based on profit:** Over 10 countries incurred loss for the firm, with Turkey, Nigeria, Netherlands, Honduras, and Pakistan appearing in the bottom 5, incurring a loss of over $150,000 for the firm.
 - **Best Performing Country:** The United States is the best performing country for the firm, generating over $300,000 in profits.
-- **Top Product Categories:** The Technological Products are the top performing categories generating the highest number in sales and profits for the firm. Under this category, the "Phones", "Copiers", and "Machines" sub-categories are the top 3 products.
+- **Top Product Categories:** The Technology category is the top performing category generating the highest number in sales and profits for the firm. Under this category, "Phones", "Copiers", and "Machines" are the top 3 sub-categories.
 
-![](https://github.com/Ernestug/US-store-Sales-Data/blob/main/US%20Sales%20Data%20Dashboard.png)
+![](https://github.com/Ernestug/Global-Superstore/blob/main/Global%20Superstore%20Dashboard.jpg)
 
